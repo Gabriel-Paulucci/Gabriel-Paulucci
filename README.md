@@ -4,6 +4,8 @@
 
 * Linguagens de programação
   - CSharp [Avançado]
+  - CSS [Avançado]
+  - HTML [Avançado]
   - TypeScript [Basico]
   - JavaScript [Basico]
   
