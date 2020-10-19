@@ -9,4 +9,9 @@
   
 * Tecnologias
   * AspNet Core [Intermediario]
-    - Razor
+    - Razor [Intermediario]
+    - Blazor [Basico]
+  * Entity Framework Core [Intermediario]
+  * ElectronNet [Basico]
+  * Express [Basico]
+  * Vue [Basico]
