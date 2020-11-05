@@ -2,7 +2,7 @@
 
 ## Conhecimentos
 
-* Linguagens de programação
+* Linguagens
   - CSharp [Avançado]
   - CSS [Avançado]
   - HTML [Avançado]
