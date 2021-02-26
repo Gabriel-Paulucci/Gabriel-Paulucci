@@ -1,20 +1,20 @@
 ### Hi, i'm Gabriel 👋
 ---
 
-[![Discord Badge] (https://img.shields.io/badge/-Discord-34eb6b?style=flat-square&labelColor=34eb6b&logo=discord&logoColor=white&link=https://discord.com/users/203713369927057408)] (https://discord.com/users/203713369927057408)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=Vulcan%234805&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/203713369927057408)
 
 Hello I'm Gabriel I'm 20 years old. I'm a .Net developer but I develop in just about everything, I love games and in my spare time I play lol.
 
-## Conhecimentos
+## Abilities
 
-* Linguagens
+* Languages
   - CSharp [Avançado]
   - CSS [Avançado]
   - HTML [Avançado]
   - TypeScript [Basico]
   - JavaScript [Basico]
   
-* Tecnologias
+* Technology
   * AspNet Core [Intermediario]
     - Razor [Intermediario]
     - Blazor [Basico]
@@ -24,3 +24,6 @@ Hello I'm Gabriel I'm 20 years old. I'm a .Net developer but I develop in just a
   * ElectronNet [Basico]
   * Express [Basico]
   * Vue [Basico]
+
+![](https://github-readme-stats.vercel.app/api?username=gabriel-paulucci&show_icons=true&title_color=8544c2&icon_color=8544c2&text_color=4F5159&bg_color=F3F3F3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-paulucci&layout=compact&title_color=8544c2)
