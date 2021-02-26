@@ -9,24 +9,24 @@ Hello I'm Gabriel I'm 20 years old. I'm a .Net developer but I develop in just a
 
 * Languages
 
-  ![C#](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-c-sharp-logo-32.png)
-  ![Css](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-css3-32.png)
-  ![Html](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-html-5-32.png)
-  ![JavaScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-javascript-32.png)
-  ![TypeScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-typescript-32.png)
+  ![C#](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/c-sharp.png)
+  ![Css](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/css3.png)
+  ![Html](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/html-5.png)
+  ![JavaScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/javascript.png)
+  ![TypeScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/typescript.png)
   
 * Technology
   
-  ![DotNet](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/dot-net-32.png)
-  ![ElectronNet](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/electron-net-32.png)
-  ![NodeJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-node-js-32.png)
-  ![VueJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-vue-js-32.png)
-  ![Docker](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-docker-32.png)
+  ![DotNet](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/dot-net.png)
+  ![ElectronNet](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/electron-net.png)
+  ![NodeJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/node-js.png)
+  ![VueJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/vue-js.png)
+  ![Docker](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/docker.png)
 
 * Tools
 
-  ![Visual Studio](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-visual-studio-2019-32.png)
-  ![Visual Studio Code](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-visual-studio-code-2019-32.png)
+  ![Visual Studio](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/visual-studio-2019.png)
+  ![Visual Studio Code](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/visual-studio-code-2019.png)
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=gabriel-paulucci&show_icons=true&title_color=8544c2&icon_color=8544c2&text_color=4F5159&bg_color=F3F3F3)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-paulucci&layout=compact&title_color=8544c2)
