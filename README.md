@@ -9,7 +9,7 @@ Hello I'm Gabriel I'm 20 years old. I'm a .Net developer but I develop in just a
 
 * Languages
 
-  ![C#]()
+  ![C#](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/icons8-c-sharp-logo-32.png)
 ![Css](https://img.icons8.com/color/32/000000/css3.png)
 ![Html](https://img.icons8.com/color/32/000000/html-5.png)
 ![JavaScript](https://img.icons8.com/color/32/000000/javascript.png)
