@@ -22,6 +22,7 @@ Hello I'm Gabriel I'm 20 years old. I'm a .Net developer but I develop in just a
   ![NodeJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/node-js.png)
   ![VueJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/vue-js.png)
   ![Docker](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/docker.png)
+  ![NestJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/nest-js.png)
 
 * Tools
 
