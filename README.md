@@ -5,7 +5,7 @@
 
 Hello I'm Gabriel I'm 20 years old. I'm a .Net developer but I develop in just about everything, I love games and in my spare time I play lol.
 
-## Abilities
+## About me
 
 * Languages
 
