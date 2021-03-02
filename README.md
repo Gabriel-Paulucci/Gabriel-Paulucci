@@ -15,7 +15,7 @@ Hello I'm Gabriel I'm 20 years old. I'm a .Net developer but I develop in just a
   [![JavaScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/javascript.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   [![TypeScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/typescript.png)](https://www.typescriptlang.org/)
   
-* Technology
+* Technologies
   
   [![DotNet](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/dot-net.png)](https://dotnet.microsoft.com/)
   [![ElectronNet](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/electron-net.png)](https://github.com/ElectronNET/Electron.NET)
