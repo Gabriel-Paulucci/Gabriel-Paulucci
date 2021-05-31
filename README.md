@@ -3,7 +3,7 @@
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=Vulcan%234805&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/203713369927057408)
 
-Hello I'm Gabriel I'm 20 years old. I'm a .Net developer but I develop in just about everything, I love games and in my spare time I play lol.
+Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just about everything, I love games and in my spare time I play lol.
 
 ## About me
 
