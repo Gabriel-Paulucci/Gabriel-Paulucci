@@ -10,26 +10,26 @@ Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just a
 
 * Languages
 
-  [![C#](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/c-sharp.png)](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
-  [![Css](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/css3.png)](https://www.w3schools.com/css/default.asp)
-  [![Html](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/html-5.png)](https://www.w3schools.com/html/default.asp)
-  [![JavaScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/javascript.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  [![TypeScript](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/typescript.png)](https://www.typescriptlang.org/)
-  [![Rust](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/rust.png)](https://www.rust-lang.org)
+  [![C#](images/c-sharp.png)](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
+  [![Css](images/css3.png)](https://www.w3schools.com/css/default.asp)
+  [![Html](images/html-5.png)](https://www.w3schools.com/html/default.asp)
+  [![JavaScript](images/javascript.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  [![TypeScript](images/typescript.png)](https://www.typescriptlang.org/)
+  [![Rust](images/rust.png)](https://www.rust-lang.org)
   
 * Technologies
   
-  [![DotNet](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/dot-net.png)](https://dotnet.microsoft.com/)
-  [![ElectronNet](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/electron-net.png)](https://github.com/ElectronNET/Electron.NET)
-  [![NodeJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/node-js.png)](https://nodejs.org/en/)
-  [![VueJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/vue-js.png)](https://vuejs.org/)
-  [![Docker](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/docker.png)](https://www.docker.com/)
-  [![NestJs](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/nest-js.png)](https://nestjs.com/)
+  [![DotNet](images/dot-net.png)](https://dotnet.microsoft.com/)
+  [![ElectronNet](images/electron-net.png)](https://github.com/ElectronNET/Electron.NET)
+  [![NodeJs](images/node-js.png)](https://nodejs.org/en/)
+  [![VueJs](images/vue-js.png)](https://vuejs.org/)
+  [![Docker](images/docker.png)](https://www.docker.com/)
+  [![NestJs](images/nest-js.png)](https://nestjs.com/)
 
 * Tools
 
-  [![Visual Studio](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/visual-studio-2019.png)](https://visualstudio.microsoft.com/pt-br/vs/)
-  [![Visual Studio Code](https://raw.githubusercontent.com/Gabriel-Paulucci/Gabriel-Paulucci/master/images/visual-studio-code-2019.png)](https://code.visualstudio.com/)
+  [![Visual Studio](images/visual-studio-2019.png)](https://visualstudio.microsoft.com/pt-br/vs/)
+  [![Visual Studio Code](images/visual-studio-code-2019.png)](https://code.visualstudio.com/)
 
 <!-- * Projects
 
