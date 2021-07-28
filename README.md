@@ -20,7 +20,6 @@ Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just a
 * Technologies
   
   [![DotNet](images/dot-net.png)](https://dotnet.microsoft.com/)
-  [![ElectronNet](images/electron-net.png)](https://github.com/ElectronNET/Electron.NET)
   [![NodeJs](images/node-js.png)](https://nodejs.org/en/)
   [![VueJs](images/vue-js.png)](https://vuejs.org/)
   [![Docker](images/docker.png)](https://www.docker.com/)
