@@ -15,7 +15,7 @@ Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just a
   [![Html](images/html-5.png)](https://www.w3schools.com/html/default.asp)
   [![JavaScript](images/javascript.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   [![TypeScript](images/typescript.png)](https://www.typescriptlang.org/)
-  [![Rust](images/rust.png)](https://www.rust-lang.org)
+  [<img src="images/rust.png" width="32" alt="Rust">](https://www.rust-lang.org)
   
 * Technologies
   
@@ -26,7 +26,7 @@ Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just a
   [![NestJs](images/nest-js.png)](https://nestjs.com/)
   [![Github Actions](images/github-actions.png)](https://github.com/features/actions)
   [![Prisma](images/prisma.png)](https://www.prisma.io/)
-  [<img src="images/nginx.svg" width="32">](https://www.nginx.com/)
+  [<img src="images/nginx.svg" width="32" alt="Nginx">](https://www.nginx.com/)
 
 * Tools
 
