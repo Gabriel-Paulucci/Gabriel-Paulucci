@@ -26,6 +26,7 @@ Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just a
   [![NestJs](images/nest-js.png)](https://nestjs.com/)
   [![Github Actions](images/github-actions.png)](https://github.com/features/actions)
   [![Prisma](images/prisma.png)](https://www.prisma.io/)
+  [<img src="images/nginx.svg" width="32">](https://www.nginx.com/)
 
 * Tools
 
