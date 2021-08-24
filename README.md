@@ -10,11 +10,11 @@ Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just a
 
 * Languages
 
-  [![C#](images/c-sharp.png)](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
-  [![Css](images/css3.png)](https://www.w3schools.com/css/default.asp)
-  [![Html](images/html-5.png)](https://www.w3schools.com/html/default.asp)
-  [![JavaScript](images/javascript.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  [![TypeScript](images/typescript.png)](https://www.typescriptlang.org/)
+  [<img src="images/csharp.svg" width="32" alt="C#">](https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
+  [<img src="images/css.svg" width="32" alt="CSS">](https://www.w3schools.com/css/default.asp)
+  [<img src="images/html.svg" width="32" alt="HTML">](https://www.w3schools.com/html/default.asp)
+  [<img src="images/javascript.svg" width="32" alt="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  [<img src="images/typescript.svg" width="32" alt="TypeScript">](https://www.typescriptlang.org/)
   [<img src="images/rust.png" width="32" alt="Rust">](https://www.rust-lang.org)
   
 * Technologies
