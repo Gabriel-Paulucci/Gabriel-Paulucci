@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Gabriel%20Paulucci&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-paulucci-5b24a8170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpaVdFFnHQvqKMAzqynTUSQ%3D%3D)
 [![Gist](https://img.shields.io/static/v1?label=Gist&message=Gabriel-Paulucci&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=github)](https://gist.github.com/Gabriel-Paulucci)
 
-Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just about everything, I love games and in my spare time I play League of Legends.
+Hello, my name is Gabriel, I live in Brazil and I am 21 years old, I program using .Net, JS and Rust
 
 ## About me
 
@@ -23,11 +23,13 @@ Hello I'm Gabriel I'm 21 years old. I'm a .Net developer but I develop in just a
   [![DotNet](images/dot-net.png)](https://dotnet.microsoft.com/)
   [![NodeJs](images/node-js.png)](https://nodejs.org/en/)
   [![VueJs](images/vue-js.png)](https://vuejs.org/)
+  [<img src="images/nuxt.svg" width="32" alt="Nuxt 3">](https://v3.nuxtjs.org/)
   [![Docker](images/docker.png)](https://www.docker.com/)
   [![NestJs](images/nest-js.png)](https://nestjs.com/)
   [![Github Actions](images/github-actions.png)](https://github.com/features/actions)
   [![Prisma](images/prisma.png)](https://www.prisma.io/)
   [<img src="images/nginx.svg" width="32" alt="Nginx">](https://www.nginx.com/)
+  [<img src="images/sea-ql.png" width="32" alt="SeaQL">](https://github.com/SeaQL)
 
 * Tools
 
