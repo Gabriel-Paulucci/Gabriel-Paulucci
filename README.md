@@ -5,7 +5,9 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Gabriel%20Paulucci&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-paulucci-5b24a8170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpaVdFFnHQvqKMAzqynTUSQ%3D%3D)
 [![Gist](https://img.shields.io/static/v1?label=Gist&message=Gabriel-Paulucci&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=github)](https://gist.github.com/Gabriel-Paulucci)
 
-Hello, my name is Gabriel, I live in Brazil and I am 21 years old, I program using .Net, JS and Rust
+I'm a web developer, currently working on designing websites with Vue and maintaining servers
+
+Currently studying about Rust and its applications and in the open source contribution of the Rust community
 
 ## About me
 
