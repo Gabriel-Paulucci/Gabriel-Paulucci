@@ -19,6 +19,7 @@ Currently studying about Rust and its applications and in the open source contri
   [<img src="images/javascript.svg" width="32" alt="JavaScript">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   [<img src="images/typescript.svg" width="32" alt="TypeScript">](https://www.typescriptlang.org/)
   [<img src="images/rust.png" width="32" alt="Rust">](https://www.rust-lang.org)
+  [<img src="images/golang.svg" width="32" alt="Golang">](https://go.dev/)
   
 * Technologies
   
