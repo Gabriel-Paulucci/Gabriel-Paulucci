@@ -2,7 +2,7 @@
 
 ---
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=Vulcan%234805&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/203713369927057408)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=vulcan_dragi&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/203713369927057408)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Gabriel%20Paulucci&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-paulucci-5b24a8170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpaVdFFnHQvqKMAzqynTUSQ%3D%3D)
 [![Gist](https://img.shields.io/static/v1?label=Gist&message=Gabriel-Paulucci&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=github)](https://gist.github.com/Gabriel-Paulucci)
 
@@ -27,7 +27,6 @@ Currently studying about Rust and its applications and in the open source contri
   [![NodeJs](images/node-js.png)](https://nodejs.org/en/)
   [![Docker](images/docker.png)](https://www.docker.com/)
   [![Github Actions](images/github-actions.png)](https://github.com/features/actions)
-  [![Prisma](images/prisma.png)](https://www.prisma.io/)
   [<img src="images/nginx.svg" width="32" alt="Nginx">](https://www.nginx.com/)
   [<img src="images/sea-ql.png" width="32" alt="SeaQL">](https://github.com/SeaQL)
   [<img src="images/react.svg" width="32" alt="SeaQL">](https://reactjs.org/)
