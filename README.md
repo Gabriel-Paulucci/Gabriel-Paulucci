@@ -2,7 +2,6 @@
 
 ---
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=vulcan_dragi&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/203713369927057408)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Gabriel%20Paulucci&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-paulucci-5b24a8170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpaVdFFnHQvqKMAzqynTUSQ%3D%3D)
 [![Gist](https://img.shields.io/static/v1?label=Gist&message=Gabriel-Paulucci&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=github)](https://gist.github.com/Gabriel-Paulucci)
 
